@@ -8,15 +8,17 @@ Aqui estão algumas capturas de tela do projeto em funcionamento:
 
 ### Página inicial
 
-![Página inicial](screenshots/homepage.png)
+<img src="./assets/images/Screenshot_2023-05-08-19-43-40_1920x1080.png" alt="imagem" />
 
 ### Exibição da cidade
 
-![Exibição da cidade](screenshots/city.png)
+<img src="./assets/images/gif_weather_city.gif" alt="imagem" />
+
 
 ### Busca de cidade
 
-![Busca de cidade](screenshots/search.png)
+<img src="./assets/images/search_city.gif" alt="imagem" />
+
 
 ## Como executar
 
