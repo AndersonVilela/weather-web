@@ -1,29 +1,37 @@
-# weatcher-web
+# Weather Web
 
-This template should help get you started developing with Vue 3 in Vite.
+Este é um projeto de aplicação web que exibe informações meteorológicas para uma determinada cidade, utilizando a API [OpenWeatherMap](https://openweathermap.org/).
 
-## Recommended IDE Setup
+## Screenshots
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Aqui estão algumas capturas de tela do projeto em funcionamento:
 
-## Customize configuration
+### Página inicial
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+![Página inicial](screenshots/homepage.png)
 
-## Project Setup
+### Exibição da cidade
 
-```sh
-npm install
-```
+![Exibição da cidade](screenshots/city.png)
 
-### Compile and Hot-Reload for Development
+### Busca de cidade
 
-```sh
-npm run dev
-```
+![Busca de cidade](screenshots/search.png)
 
-### Compile and Minify for Production
+## Como executar
 
-```sh
-npm run build
-```
+1. Clone este repositório em sua máquina local usando `git clone https://github.com/AndersonVilela/weather-web.git`
+2. Acesse o diretório do projeto: `cd weather-web`
+3. Instale as dependências usando `npm install`
+4. Inicie o servidor local com `npm start`
+
+## Tecnologias utilizadas
+
+- Vuejs
+- tailwindcss
+- Axios
+- OpenWeatherMap API
+
+## Contribuição
+
+Contribuições são sempre bem-vindas! Se você tiver alguma sugestão, por favor abra uma issue ou envie um pull request.
